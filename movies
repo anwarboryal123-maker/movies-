@@ -2,6 +2,7 @@
   {
     "id": "s2e1",
     "season": 2,
+     "movieId": 1,
     "episodeNumber": 1,
     "title": "1.THE BEGINNING AND THE END",
     "duration": "1h 6m",
@@ -54,6 +55,7 @@
   {
     "id": "s2e2",
     "season": 2,
+     "movieId": 1,
     "episodeNumber": 2,
     "title": "2.GOOD WHALE HUNTING",
     "duration": "1h 4m",
@@ -95,6 +97,7 @@
   {
     "id": "s2e3",
     "season": 2,
+    "movieId": 1,
     "episodeNumber": 3,
     "title": "3.WHISKY BUSINESS",
     "duration": "1h 4m",
@@ -132,6 +135,7 @@
   {
     "id": "s2e4",
     "season": 2,
+     "movieId": 1,
     "episodeNumber": 4,
     "title": "4.BIG TROUBLE IN LITTLE GARDEN",
     "duration": "55m",
@@ -169,6 +173,7 @@
   {
     "id": "s2e5",
     "season": 2,
+     "movieId": 1,
     "episodeNumber": 5,
     "title": "5.WAX ON, WAX OFF",
     "duration": "58m",
@@ -206,6 +211,7 @@
   {
     "id": "s2e6",
     "season": 2,
+     "movieId": 1,
     "episodeNumber": 6,
     "title": "6.NAMI DEEREST",
     "duration": "56m",
@@ -243,6 +249,7 @@
   {
     "id": "s2e7",
     "season": 2,
+     "movieId": 1,
     "episodeNumber": 7,
     "title": "7.REINDEER SHAMES",
     "duration": "1h 1m",
@@ -280,6 +287,7 @@
   {
     "id": "s2e8",
     "season": 2,
+     "movieId": 1,
     "episodeNumber": 8,
     "title": "8.DEER AND LOATHING IN DRUM KINGDOM",
     "duration": "1h 4m",
