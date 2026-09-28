@@ -1,8 +1,9 @@
+
 [
   {
     "id": "s1e1",
     "season": 1,
-     "movieId": 1,
+    "movieId": 1,
     "episodeNumber": 1,
     "title": "1.METAMORPHOSIS",
     "duration": "23m",
@@ -32,7 +33,7 @@
         "languageCode": "jp",
         "displayName": "Japanese",
         "url": "https://yourserver.com/parasyte/audio/s1e1_jp.mp3",
-        "isOriginal": false 
+        "isOriginal": false
       },
       {
         "languageCode": "en",
@@ -52,7 +53,7 @@
   {
     "id": "s1e2",
     "season": 1,
-     "movieId": 1,
+    "movieId": 1,
     "episodeNumber": 2,
     "title": "2.THE DEVIL IN THE FLESH",
     "duration": "23m",
@@ -90,6 +91,7 @@
   {
     "id": "s1e3",
     "season": 1,
+    "movieId": 1,
     "episodeNumber": 3,
     "title": "3.SYMPOSIUM",
     "duration": "23m",
@@ -115,8 +117,7 @@
       }
     ],
     "audioTracks": [
-
-        {
+      {
         "languageCode": "en",
         "displayName": "english",
         "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E3-1080P_Converted.mp3",
@@ -154,8 +155,7 @@
       }
     ],
     "audioTracks": [
-
-       {
+      {
         "languageCode": "en",
         "displayName": "english",
         "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E4-1080P_Converted.mp3",
@@ -193,8 +193,7 @@
       }
     ],
     "audioTracks": [
-
-        {
+      {
         "languageCode": "en",
         "displayName": "english",
         "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E5-1080P_Converted.mp3",
@@ -206,7 +205,7 @@
   {
     "id": "s1e6",
     "season": 1,
-   "movieId": 1,
+    "movieId": 1,
     "episodeNumber": 6,
     "title": "6.SUN RISES AGAIN",
     "duration": "23m",
@@ -232,7 +231,7 @@
       }
     ],
     "audioTracks": [
-       {
+      {
         "languageCode": "en",
         "displayName": "english",
         "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E6-1080P_Converted.mp3",
