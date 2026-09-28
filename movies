@@ -2,6 +2,7 @@
   {
     "id": "s1e1",
     "season": 1,
+     "movieId": 1,
     "episodeNumber": 1,
     "title": "1.METAMORPHOSIS",
     "duration": "23m",
@@ -51,6 +52,7 @@
   {
     "id": "s1e2",
     "season": 1,
+     "movieId": 1,
     "episodeNumber": 2,
     "title": "2.THE DEVIL IN THE FLESH",
     "duration": "23m",
@@ -126,6 +128,7 @@
   {
     "id": "s1e4",
     "season": 1,
+    "movieId": 1,
     "episodeNumber": 4,
     "title": "4.DISHEVELED HAIR",
     "duration": "23m",
@@ -164,6 +167,7 @@
   {
     "id": "s1e5",
     "season": 1,
+    "movieId": 1,
     "episodeNumber": 5,
     "title": "5.THE STRANGER",
     "duration": "23m",
@@ -202,6 +206,7 @@
   {
     "id": "s1e6",
     "season": 1,
+   "movieId": 1,
     "episodeNumber": 6,
     "title": "6.SUN RISES AGAIN",
     "duration": "23m",
