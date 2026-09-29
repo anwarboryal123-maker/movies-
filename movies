@@ -1,88 +1,57 @@
 {
-  "categories": [
-    {
-      "id": 1,
-      "title": "Popular Movies",
-      "type": "movie"
-    },
-    {
-      "id": 2,
-      "title": "Blockbuster Action Movies",
-      "type": "movie"
-    },
-    {
-      "id": 3,
-      "title": "Anime Series",
-      "type": "tv"
-    }
-  ],
-
-  "genres": [
-    { "id": 1, "name": "Action" },
-    { "id": 2, "name": "Anime" },
-    { "id": 3, "name": "Horror" },
-    { "id": 4, "name": "Fantasy" },
-    { "id": 5, "name": "Comedy" },
-    { "id": 6, "name": "Sci-Fi" }
-  ],
-
   "movies": [
     {
       "id": 1,
+      "movieId": 1,
       "title": "Parasyte The Maxim",
       "type": "tv",
-      "overview": "A mysterious parasite takes over a young man's hand.",
-      "isTop10": true,
-      "progress": 0,
+      "overview": "A strange parasite attempts to take over Shinichi Izumi, but fails and ends up trapped in his right hand.",
       "imageUrl": "https://image.tmdb.org/t/p/original/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/zu0tNESIHIfVIaewXx8gnFuBTrd.jpg",
-      "episodeInfo": "24 Episodes",
-      "genreIds": [1, 2, 3]
-    },
-    {
-      "id": 2,
-      "title": "Matilda",
-      "type": "movie",
-      "overview": "A young girl with telekinetic powers navigates school and family life.",
-      "isTop10": false,
+      "videoUrl": "",
+      "isTop10": true,
       "progress": 0,
-      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg",
-      "bannerUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg",
-      "videoUrl": "https://archive.org/download/matilda_202601/Matilda%20%281996%29%20Trailer%20.mp4",
-      "episodeInfo": "Movie",
-      "genreIds": [1, 5],
+      "episodeInfo": "24 Episodes",
+      "genreIds": [1, 2, 3],
       "audioTracks": [],
       "subtitleTracks": []
-    }
-  ],
-
-  "trailers": [
-    {
-      "id": 1,
-      "movieId": 1,
-      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
-      "title": "Parasyte The Maxim Trailer",
-      "type": "trailer",
-      "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
-      "duration": "2:15"
     },
     {
       "id": 2,
       "movieId": 2,
-      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg",
-      "title": "Matilda Trailer",
-      "type": "trailer",
-      "videoUrl": "https://archive.org/download/matilda_202601/Matilda%20%281996%29%20Trailer%20.mp4",
-      "duration": "2:15"
+      "title": "Ramaiya Vastavaiya",
+      "type": "movie",
+      "overview": "Ram, a rich NRI, falls in love with Sona, a simple village girl and tries to win her brother's heart.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
+      "bannerUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
+      "videoUrl": "https://archive.org/download/your-movie-link/RamaiyaVastavaiya.mkv",
+      "isTop10": true,
+      "progress": 0,
+      "episodeInfo": "",
+      "genreIds": [1, 5],
+      "audioTracks": [
+        {
+          "languageCode": "hi",
+          "displayName": "Hindi",
+          "url": "https://yourserver.com/audio/ramaiya_hi.mp3",
+          "isOriginal": true
+        }
+      ],
+      "subtitleTracks": [
+        {
+          "languageCode": "ar",
+          "displayName": "Arabic",
+          "url": "https://yourserver.com/subtitles/ramaiya_ar.vtt"
+        }
+      ]
     }
   ],
-
   "episodes": [
     {
       "id": "s1e1",
       "season": 1,
-      "movieId": 1,
       "episodeNumber": 1,
+      "movieId": 1,
       "title": "1.METAMORPHOSIS",
       "duration": "23m",
       "description": "A strange parasite attempts to take over Shinichi Izumi, but fails and ends up trapped in his right hand.",
@@ -91,12 +60,6 @@
       "rating": {
         "code": "18+",
         "description": "Graphic violence, horror themes"
-      },
-      "warning": {
-        "type": "WARNING",
-        "startMs": 42000,
-        "endMs": 68000,
-        "description": "Graphic violence and gore"
       },
       "markers": [
         {
@@ -131,8 +94,8 @@
     {
       "id": "s1e2",
       "season": 1,
-      "movieId": 1,
       "episodeNumber": 2,
+      "movieId": 1,
       "title": "2.THE DEVIL IN THE FLESH",
       "duration": "23m",
       "description": "Shinichi struggles to live normally while hiding the existence of Migi.",
@@ -141,12 +104,6 @@
       "rating": {
         "code": "18+",
         "description": "Graphic violence, horror themes"
-      },
-      "warning": {
-        "type": "WARNING",
-        "startMs": 51000,
-        "endMs": 76000,
-        "description": "Violence and disturbing scenes"
       },
       "markers": [
         {
@@ -169,8 +126,8 @@
     {
       "id": "s1e3",
       "season": 1,
-      "movieId": 1,
       "episodeNumber": 3,
+      "movieId": 1,
       "title": "3.SYMPOSIUM",
       "duration": "23m",
       "description": "Shinichi discovers that parasites are secretly living among humans.",
@@ -179,12 +136,6 @@
       "rating": {
         "code": "18+",
         "description": "Graphic violence, horror themes"
-      },
-      "warning": {
-        "type": "WARNING",
-        "startMs": 47000,
-        "endMs": 72000,
-        "description": "Body horror and violence"
       },
       "markers": [
         {
@@ -207,8 +158,8 @@
     {
       "id": "s1e4",
       "season": 1,
-      "movieId": 1,
       "episodeNumber": 4,
+      "movieId": 1,
       "title": "4.DISHEVELED HAIR",
       "duration": "23m",
       "description": "A dangerous parasite targets Shinichi and his classmates.",
@@ -217,12 +168,6 @@
       "rating": {
         "code": "18+",
         "description": "Graphic violence, horror themes"
-      },
-      "warning": {
-        "type": "WARNING",
-        "startMs": 60000,
-        "endMs": 85000,
-        "description": "Graphic violence"
       },
       "markers": [
         {
@@ -245,8 +190,8 @@
     {
       "id": "s1e5",
       "season": 1,
+      "episodeNumber": 5,
       "movieId": 1,
-      "episodeNumber": 6,
       "title": "5.THE STRANGER",
       "duration": "23m",
       "description": "Shinichi begins to notice changes in his own humanity.",
@@ -255,12 +200,6 @@
       "rating": {
         "code": "18+",
         "description": "Graphic violence, horror themes"
-      },
-      "warning": {
-        "type": "WARNING",
-        "startMs": 52000,
-        "endMs": 73000,
-        "description": "Violence and blood"
       },
       "markers": [
         {
@@ -283,8 +222,8 @@
     {
       "id": "s1e6",
       "season": 1,
-      "movieId": 1,
       "episodeNumber": 6,
+      "movieId": 1,
       "title": "6.SUN RISES AGAIN",
       "duration": "23m",
       "description": "Shinichi faces emotional trauma after a tragic event.",
@@ -293,12 +232,6 @@
       "rating": {
         "code": "18+",
         "description": "Violence and emotional trauma"
-      },
-      "warning": {
-        "type": "WARNING",
-        "startMs": 48000,
-        "endMs": 69000,
-        "description": "Emotional trauma and violence"
       },
       "markers": [
         {
