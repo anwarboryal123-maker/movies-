@@ -1,4 +1,4 @@
-[
+
   {
     "id": "s1e1",
     "season": 1,
@@ -238,37 +238,5 @@
       }
     ],
     "subtitleTracks": []
-  },
-  {
-    "id": "movie_2",
-    "season": 1,
-    "movieId": 2,
-    "episodeNumber": 1,
-    "title": "ramaiya vastavaiya",
-    "duration": "1h 45m",
-    "description": "وصف قصير لقصة الفيلم والأحداث الخاصة به...",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/رابط_صورة_الغلاف.jpg",
-    "videoUrl": "https://archive.org/download/ramaiya-vastavaiya-1080-p/Ramaiya%20Vastavaiya-1080P.mkv",
-    "rating": {
-      "code": "16+",
-      "description": "مشاهد درامية أو أكشن"
-    },
-    "warning": null,
-    "markers": [],
-    "audioTracks": [
-      {
-        "languageCode": "ar",
-        "displayName": "Arabic",
-        "url": "https://yourserver.com/movies/audio/movie2_ar.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": [
-      {
-        "languageCode": "ar",
-        "displayName": "Arabic",
-        "url": "https://yourserver.com/movies/subtitles/movie2_ar.vtt"
-      }
-    ]
   }
 ]
