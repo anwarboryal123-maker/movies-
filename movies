@@ -1,4 +1,4 @@
-```json
+
 {
   "movies": [
     {
@@ -7,9 +7,6 @@
       "type": "tv",
       "description": "A mysterious parasite takes over a young man's hand.",
       "duration": "",
-      "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
-      "bannerUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
-      "videoUrl": "",
       "rating": {
         "code": "18+",
         "description": "Graphic violence, horror themes"
