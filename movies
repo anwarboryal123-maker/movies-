@@ -1,28 +1,27 @@
 {
   "id": 1,
-  "title": "فيلم تجريبي",
+  "title": "ramaiya vastavaiya",
   "movieId": 2,
-  "overview": "هذا وصف مختصر لأحداث الفيلم التجريبي الخاص بتطبيق البث.",
   "videoUrl": "https://archive.org/download/ramaiya-vastavaiya-1080-p/Ramaiya%20Vastavaiya-1080P.mkv",
   "progress": 45,
   "audioTracks": [
     {
       "language": "العربية",
-      "url": "https://example.com/audio/ar.aac"
+      "url": ""
     },
     {
       "language": "الإنجليزية",
-      "url": "https://example.com/audio/en.aac"
+      "url": ""
     }
   ],
   "subtitleTracks": [
     {
       "language": "العربية",
-      "url": "https://example.com/subtitles/ar.vtt"
+      "url": ""
     },
     {
       "language": "الإنجليزية",
-      "url": "https://example.com/subtitles/en.vtt"
+      "url": ""
     }
   ]
 }
