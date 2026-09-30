@@ -1,30 +1,28 @@
-[
-  {
-    "id": 101,
-    "title": "Inception",
-    "movieId": 1,
-    "type": "movie",
-    "overview": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
-    "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
-    "bannerUrl": "https://media.themoviedb.org/t/p/w1280/s3TBrRGB137gzOCpDFL2nF9IHYK.jpg",
-    "videoUrl": "https://archive.org/download/ramaiya-vastavaiya-1080-p/Ramaiya%20Vastavaiya-1080P.mkv",
-    "isTop10": true,
-    "progress": 0,
-    "genreIds": [28, 12, 878],
-    "audioTracks": [
-      {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/Inception_2010_Trailer/Inception_2010_Trailer_audio.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": [
-      {
-        "languageCode": "ar",
-        "displayName": "Arabic",
-        "url": "https://yourserver.com/subtitles/inception_ar.vtt"
-      }
-    ]
-  }
-]
+{
+  "id": 1,
+  "title": "فيلم تجريبي",
+  "movieId": 2,
+  "overview": "هذا وصف مختصر لأحداث الفيلم التجريبي الخاص بتطبيق البث.",
+  "videoUrl": "https://archive.org/download/ramaiya-vastavaiya-1080-p/Ramaiya%20Vastavaiya-1080P.mkv",
+  "progress": 45,
+  "audioTracks": [
+    {
+      "language": "العربية",
+      "url": "https://example.com/audio/ar.aac"
+    },
+    {
+      "language": "الإنجليزية",
+      "url": "https://example.com/audio/en.aac"
+    }
+  ],
+  "subtitleTracks": [
+    {
+      "language": "العربية",
+      "url": "https://example.com/subtitles/ar.vtt"
+    },
+    {
+      "language": "الإنجليزية",
+      "url": "https://example.com/subtitles/en.vtt"
+    }
+  ]
+}
