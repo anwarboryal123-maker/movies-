@@ -1,28 +1,38 @@
 [
   {
     "id": 1,
-    "title": "ramaiya vastavaiya",
+    "title": "Ramaiya Vastavaiya",
     "movieId": 2,
     "videoUrl": "https://archive.org/download/ramaiya-vastavaiya-1080-p/Ramaiya%20Vastavaiya-1080P.mkv",
     "progress": 45,
+
     "audioTracks": [
       {
-        "language": "العربية",
-        "url": ""
+        "languageCode": "ar",
+        "displayName": "العربية",
+        "url": "",
+        "isOriginal": false
       },
       {
-        "language": "الإنجليزية",
-        "url": ""
+        "languageCode": "en",
+        "displayName": "الإنجليزية",
+        "url": "",
+        "isOriginal": true
       }
     ],
+
     "subtitleTracks": [
       {
-        "language": "العربية",
-        "url": ""
+        "languageCode": "ar",
+        "displayName": "العربية",
+        "url": "",
+        "mimeType": "application/x-subrip"
       },
       {
-        "language": "الإنجليزية",
-        "url": ""
+        "languageCode": "en",
+        "displayName": "الإنجليزية",
+        "url": "",
+        "mimeType": "text/vtt"
       }
     ]
   }
