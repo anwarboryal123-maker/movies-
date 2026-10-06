@@ -3,14 +3,12 @@
     "id": 1,
     "movieId": 2,
     "title": "Ramaiya Vastavaiya",
-    "type": "movie",
     "dataFile": "https://raw.githubusercontent.com/anwarboryal123-maker/movies-/main/Ramaiya%20Vastavaiya"
   },
   {
     "id": 2,
-     "movieId": 3,
+    "movieId": 3,
     "title": "Flavors of Youth",
-    "type": "movie",
     "dataFile": "https://raw.githubusercontent.com/anwarboryal123-maker/movies-/main/Flavors%20of%20Youth"
   }
 ]
