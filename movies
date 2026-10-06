@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Ramaiya Vastavaiya",
     "type": "movie",
-    "dataFile": "ramaiya_vastavaiya.json"
+    "dataFile": "https://raw.githubusercontent.com/anwarboryal123-maker/movies-/main/Ramaiya%20Vastavaiya"
   },
   {
     "id": 2,
