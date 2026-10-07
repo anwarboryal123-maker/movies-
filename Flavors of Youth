@@ -1,39 +1,41 @@
-{
-  "id": 2,
-  "title": "Flavors of Youth",
-  "movieId": 3,
-  "videoUrl": "https://archive.org/download/flavors-of-youth_20261006/Flavors%20Of%20Youth.mp4",
-  "progress": 45,
-  "rating": {
-    "code": "18+",
-    "description": "Violence, Strong Language, Drug Use"
-  },
-  "audioTracks": [
-    {
-      "languageCode": "en",
-      "displayName":"English",
-      "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20of%20Youth_language_english.mp3",
-      "isOriginal": false
+[
+  {
+    "id": 2,
+    "title": "Flavors of Youth",
+    "movieId": 3,
+    "videoUrl": "https://archive.org/download/flavors-of-youth_20261006/Flavors%20Of%20Youth.mp4",
+    "progress": 45,
+    "rating": {
+      "code": "18+",
+      "description": "Violence, Strong Language, Drug Use"
     },
-    {
-      "languageCode": "Ja",
-      "displayName": "Japanese",
-      "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20of%20Youth_language_japanse.mp3",
-      "isOriginal": true
-    }
-  ],
-  "subtitleTracks": [
-    {
-      "languageCode": "ar",
-      "displayName": "العربية",
-      "url": "",
-      "mimeType": "application/x-subrip"
-    },
-    {
-      "languageCode": "en",
-      "displayName": "الإنجليزية",
-      "url": "",
-      "mimeType": "text/vtt"
-    }
-  ]
-}
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20of%20Youth_language_english.mp3",
+        "isOriginal": false
+      },
+      {
+        "languageCode": "ja",
+        "displayName": "Japanese",
+        "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20of%20Youth_language_japanse.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": [
+      {
+        "languageCode": "ar",
+        "displayName": "العربية",
+        "url": "",
+        "mimeType": "application/x-subrip"
+      },
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "",
+        "mimeType": "text/vtt"
+      }
+    ]
+  }
+]
