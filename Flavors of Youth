@@ -27,13 +27,13 @@
       {
         "languageCode": "ar",
         "displayName": "العربية",
-        "url": "https://archive.org/download/flavors-of-youth_202610/subtitles_ar.srt",
+        "url": "",
         "mimeType": "application/x-subrip"
       },
       {
         "languageCode": "en",
         "displayName": "English",
-        "url": "https://archive.org/download/flavors-of-youth_202610/subtitles_en.vtt",
+        "url": "",
         "mimeType": "text/vtt"
       }
     ]
