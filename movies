@@ -1,12 +1,12 @@
+
 [
   {
-{
     "id": 1,
     "movieId": 1,
     "title": "Parasyte: The Maxim",
     "dataFile": "https://raw.githubusercontent.com/anwarboryal123-maker/movies-/main/Parasyte%20The%20Maxim"
-}
-{
+  },
+  {
     "id": 2,
     "movieId": 2,
     "title": "Ramaiya Vastavaiya",
@@ -17,11 +17,5 @@
     "movieId": 3,
     "title": "Flavors of Youth",
     "dataFile": "https://raw.githubusercontent.com/anwarboryal123-maker/movies-/main/Flavors%20of%20Youth"
-  }
-{
-    "id": 3,
-    "movieId": 4,
-    "title": "Parasyte: The Maxim",
-    "dataFile": "https://raw.githubusercontent.com/anwarboryal123-maker/movies-/main/Parasyte%20The%20Maxim"
   }
 ]
