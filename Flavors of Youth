@@ -6,8 +6,8 @@
     "videoUrl": "https://archive.org/download/flavors-of-youth_20261006/Flavors%20Of%20Youth.mp4",
     "progress": 45,
     "rating": {
-      "code": "18+",
-      "description": "Violence, Strong Language, Drug Use"
+      "code": "PG",
+      "description": "Parental Guidance Suggested - Mild Thematic Elements"
     },
     "audioTracks": [
       {
@@ -27,13 +27,13 @@
       {
         "languageCode": "ar",
         "displayName": "العربية",
-        "url": "",
+        "url": "https://archive.org/download/flavors-of-youth_202610/subtitles_ar.srt",
         "mimeType": "application/x-subrip"
       },
       {
         "languageCode": "en",
         "displayName": "English",
-        "url": "",
+        "url": "https://archive.org/download/flavors-of-youth_202610/subtitles_en.vtt",
         "mimeType": "text/vtt"
       }
     ]
