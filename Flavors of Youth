@@ -12,13 +12,13 @@
     {
       "languageCode": "en",
       "displayName": "English",
-      "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20Of%20Youth%20_language%20english.mp3",
+      "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20of%20Youth%20_language%20english.mp3",
       "isOriginal": false
     },
     {
       "languageCode": "ja",
       "displayName": "Japanese",
-      "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20Of%20Youth%20_language%20japanse.mp3",
+      "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20of%20Youth%20_language%20japanse.mp3",
       "isOriginal": true
     }
   ],
