@@ -1,1 +1,39 @@
-
+{
+  "id": 3,
+  "title": "Combodia",
+  "movieId": 5,
+  "videoUrl": "https://archive.org/download/20261007_1244/%D9%83%D9%85%D8%A8%D9%88%D8%AF%D9%8A%D8%A7.mkv",
+  "progress": 45,
+  "rating": {
+    "code": "18+",
+    "description": "Violence, Strong Language, Drug Use"
+  },
+  "audioTracks": [
+    {
+      "languageCode": "ar",
+      "displayName": "العربية",
+      "url": "",
+      "isOriginal": false
+    },
+    {
+      "languageCode": "en",
+      "displayName": "الإنجليزية",
+      "url": "",
+      "isOriginal": true
+    }
+  ],
+  "subtitleTracks": [
+    {
+      "languageCode": "ar",
+      "displayName": "العربية",
+      "url": "",
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "languageCode": "en",
+      "displayName": "الإنجليزية",
+      "url": "",
+      "mimeType": "text/vtt"
+    }
+  ]
+}
