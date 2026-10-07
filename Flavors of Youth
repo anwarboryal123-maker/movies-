@@ -1,41 +1,39 @@
-[
-  {
-    "id": 2,
-    "title": "Flavors of Youth",
-    "movieId": 3,
-    "videoUrl": "https://archive.org/download/flavors-of-youth_20261006/Flavors%20Of%20Youth.mp4",
-    "progress": 45,
-    "rating": {
-      "code": "PG",
-      "description": "Parental Guidance Suggested - Mild Thematic Elements"
+{
+  "id": 2,
+  "title": "Flavors of Youth",
+  "movieId": 3,
+  "videoUrl": "https://archive.org/download/flavors-of-youth_20261006/Flavors%20Of%20Youth.mp4",
+  "progress": 45,
+  "rating": {
+    "code": "PG",
+    "description": "Parental Guidance Suggested - Mild Thematic Elements"
+  },
+  "audioTracks": [
+    {
+      "languageCode": "en",
+      "displayName": "English",
+      "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20Of%20Youth%20_language%20english.mp3",
+      "isOriginal": false
     },
-    "audioTracks": [
-      {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20of%20Youth%20_language%20english.mp3",
-        "isOriginal": false
-      },
-      {
-        "languageCode": "ja",
-        "displayName": "Japanese",
-        "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20of%20Youth%20_language%20japanse.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": [
-      {
-        "languageCode": "ar",
-        "displayName": "العربية",
-        "url": "",
-        "mimeType": "application/x-subrip"
-      },
-      {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "",
-        "mimeType": "text/vtt"
-      }
-    ]
-  }
-]
+    {
+      "languageCode": "ja",
+      "displayName": "Japanese",
+      "url": "https://archive.org/download/flavors-of-youth_202610/Flavors%20Of%20Youth%20_language%20japanse.mp3",
+      "isOriginal": true
+    }
+  ],
+  "subtitleTracks": [
+    {
+      "languageCode": "ar",
+      "displayName": "العربية",
+      "url": "",
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "languageCode": "en",
+      "displayName": "English",
+      "url": "",
+      "mimeType": "text/vtt"
+    }
+  ]
+}
