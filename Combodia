@@ -11,16 +11,11 @@
   "audioTracks": [
     {
       "languageCode": "ar",
-      "displayName": "العربية",
-      "url": "",
-      "isOriginal": false
-    },
-    {
-      "languageCode": "en",
-      "displayName": "الإنجليزية",
-      "url": "",
+      "displayName": "  العربية المغربية ",
+      "url": "https://archive.org/download/converted-arabic/%D9%83%D8%A7%D9%85%D8%A8%D9%88%D8%AF%D9%8A%D8%A7_Converted%20%20arabic.mp3",
       "isOriginal": true
     }
+   
   ],
   "subtitleTracks": [
     {
