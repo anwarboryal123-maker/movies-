@@ -2,17 +2,17 @@
   "slides": [
     {
       "id": 1,
-      "imageUrl": "https://example.com/image1.jpg",
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/76ShAw0PXsnKoxMkugaYEyeTAA8.jpg",
       "releaseInfo": "Season 5 Thursday at 6:30 am IST"
     },
     {
       "id": 2,
-      "imageUrl": "https://example.com/image2.jpg",
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/2xS9vUKNgfMz058t5DrqrUcmRfW.jpg",
       "releaseInfo": "New episodes every Friday"
     },
     {
       "id": 3,
-      "imageUrl": "https://example.com/image3.jpg",
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/pS3h1RbjHqOunRSM95gP2mZGNOS.jpg",
       "releaseInfo": "Watch now"
     }
   ]
