@@ -1,1 +1,19 @@
-
+{
+  "slides": [
+    {
+      "id": 1,
+      "imageUrl": "https://example.com/image1.jpg",
+      "releaseInfo": "Season 5 Thursday at 6:30 am IST"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://example.com/image2.jpg",
+      "releaseInfo": "New episodes every Friday"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://example.com/image3.jpg",
+      "releaseInfo": "Watch now"
+    }
+  ]
+}
