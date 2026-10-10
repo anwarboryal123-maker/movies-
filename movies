@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -27,8 +26,7 @@
   {
     "id": 7,
     "movieId": 7,
-    "title": "the book thief",
+    "title": "The Book Thief",
     "dataFile": "https://raw.githubusercontent.com/anwarboryal123-maker/movies-/main/The%20Book%20Thief"
-    
   }
 ]
