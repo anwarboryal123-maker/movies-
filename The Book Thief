@@ -1,1 +1,34 @@
-
+{
+  "id": 3,
+  "title": "The Book Thief",
+  "movieId": 8,
+  "videoUrl": "https://archive.org/download/the-book-thief-2013/The%20Book%20Thief%202013.mkv",
+  "progress": 45,
+  "rating": {
+    "code": "18+",
+    "description": "Violence, Strong Language, Drug Use"
+  },
+  "audioTracks": [
+    {
+      "languageCode": "En",
+      "displayName": "english ",
+      "url": "https://archive.org/download/converted-arabic/%D9%83%D8%A7%D9%85%D8%A8%D9%88%D8%AF%D9%8A%D8%A7_Converted%20%20arabic.mp3",
+      "isOriginal": true
+    }
+   
+  ],
+  "subtitleTracks": [
+    {
+      "languageCode": "ar",
+      "displayName": "العربية",
+      "url": "",
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "languageCode": "en",
+      "displayName": "الإنجليزية",
+      "url": "",
+      "mimeType": "text/vtt"
+    }
+  ]
+}
