@@ -1,9 +1,9 @@
 {
-  "id": 3,
+  "id": 7,
   "title": "The Book Thief",
-  "movieId": 8,
+  "movieId": 7,
   "videoUrl": "https://archive.org/download/the-book-thief-2013/The%20Book%20Thief%202013.mkv",
-  "progress": 45,
+  "progress": 2:10:59,
   "rating": {
     "code": "18+",
     "description": "Violence, Strong Language, Drug Use"
