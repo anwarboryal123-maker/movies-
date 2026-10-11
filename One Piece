@@ -66,7 +66,14 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [],
+    "audioTracks": [
+ {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%202_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -97,7 +104,14 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [],
+    "audioTracks": [
+ {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%203_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -128,7 +142,14 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [],
+    "audioTracks": [
+ {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%204_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -159,7 +180,14 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [],
+    "audioTracks": [
+       {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%205_Converted.mp3 ",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -190,7 +218,14 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [],
+    "audioTracks": [
+     {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%206_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -221,7 +256,14 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [],
+    "audioTracks": [
+      {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%207_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   },
   {
@@ -252,7 +294,14 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [],
+    "audioTracks": [
+    {
+        "languageCode": "en",
+        "displayName": "English",
+        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%208_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
     "subtitleTracks": []
   }
 ]
