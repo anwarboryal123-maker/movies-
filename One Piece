@@ -1,6 +1,7 @@
 [
   {
     "id": "s1e1",
+     "movieId": 8,
     "season": 1,
     "episodeNumber": 1,
     "title": "1.ROMANCE DAWN",
@@ -50,6 +51,7 @@
   },
   {
     "id": "s1e2",
+    "movieId": 8,
     "season": 1,
     "episodeNumber": 2,
     "title": "2.THE MAN IN THE STRAW HAT",
@@ -87,6 +89,7 @@
   },
   {
     "id": "s1e3",
+     "movieId": 8,
     "season": 1,
     "episodeNumber": 3,
     "title": "3.TELL NO TALES",
@@ -125,6 +128,7 @@
   },
   {
     "id": "s1e4",
+    "movieId": 8,
     "season": 1,
     "episodeNumber": 4,
     "title": "4.THE PIRATES ARE COMING",
@@ -163,6 +167,7 @@
   },
   {
     "id": "s1e5",
+    "movieId": 8,
     "season": 1,
     "episodeNumber": 5,
     "title": "5.EAT AT BARATIE!",
@@ -201,6 +206,7 @@
   },
   {
     "id": "s1e6",
+    "movieId": 8,
     "season": 1,
     "episodeNumber": 6,
     "title": "6.THE CHEF AND THE CHORE BOY",
@@ -238,6 +244,7 @@
   },
 {
     "id": "s1e7",
+     "movieId": 8,
     "season": 1,
     "episodeNumber": 7,
     "title": "7.THE GIRL WITH THE SAWFISH TATTOO",
@@ -275,6 +282,7 @@
   },
 {
     "id": "s1e8",
+     "movieId": 8,
     "season": 1,
     "episodeNumber": 8,
     "title": "8.WORST IN THE EAST",
