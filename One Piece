@@ -1,23 +1,23 @@
 [
   {
     "id": "s1e1",
-     "movieId": 8,
+    "movieId": 8,
     "season": 1,
     "episodeNumber": 1,
-    "title": "1.ROMANCE DAWN",
+    "title": "1. ROMANCE DAWN",
     "duration": "1h 6m",
-    "description": "A strange parasite attempts to take over Shinichi Izumi, but fails and ends up trapped in his right hand.",
+    "description": "Monkey D. Luffy begins his journey to become the King of the Pirates and sets out to find the legendary One Piece.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/qyCDTwiZ0w278d3w4Id1f2Lqihl.jpg",
     "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-1-without-track/one%20piece%20season%201%20Epsoide%201%20without%20track.mkv",
     "rating": {
       "code": "18+",
-      "description": "Graphic violence, horror themes"
+      "description": "Check the actual content rating before displaying it."
     },
     "warning": {
       "type": "WARNING",
       "startMs": 42000,
       "endMs": 68000,
-      "description": "Graphic violence and gore"
+      "description": "Content warning"
     },
     "markers": [
       {
@@ -27,47 +27,28 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [
-      {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-track-english/one%20piece%20season%201%20Epsoide%201%20%20track%20english.mkv",
-        "isOriginal": false 
-      },
-      {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E1-1080P%20%281%29_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": [
-      {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://yourserver.com/parasyte/subtitles/s1e1_en.vtt"
-      }
-    ]
+    "audioTracks": [],
+    "subtitleTracks": []
   },
   {
     "id": "s1e2",
     "movieId": 8,
     "season": 1,
     "episodeNumber": 2,
-    "title": "2.THE MAN IN THE STRAW HAT",
+    "title": "2. THE MAN IN THE STRAW HAT",
     "duration": "57m",
-    "description": "After securing a map to the Grand Line, Luffy, Nami and Zoro are taken hostage by a no-nonsense clown. New cadet Koby is cornered by Vice-Admiral Garp.",
-    "thumbnailUrl": "https://www.themoviedb.org/tv/111110-one-piece/season/1/episode/2",
+    "description": "Luffy continues his adventure and meets new allies as he moves closer to his dream of becoming King of the Pirates.",
+    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/qyCDTwiZ0w278d3w4Id1f2Lqihl.jpg",
     "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%202%20%281%29.mkv",
     "rating": {
       "code": "18+",
-      "description": "Graphic violence, horror themes"
+      "description": "Check the actual content rating before displaying it."
     },
     "warning": {
       "type": "WARNING",
       "startMs": 51000,
       "endMs": 76000,
-      "description": "Violence and disturbing scenes"
+      "description": "Content warning"
     },
     "markers": [
       {
@@ -77,35 +58,28 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [
-      {
-        "languageCode": "en",
-        "displayName": "english",
-        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E2-1080P_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
+    "audioTracks": [],
     "subtitleTracks": []
   },
   {
     "id": "s1e3",
-     "movieId": 8,
+    "movieId": 8,
     "season": 1,
     "episodeNumber": 3,
-    "title": "3.TELL NO TALES",
+    "title": "3. TELL NO TALES",
     "duration": "59m",
-    "description": "Shinichi discovers that parasites are secretly living among humans.",
+    "description": "Luffy and his companions face new challenges as their journey across the seas continues.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/utv8GwRqlwb2M2ugQUzMzBL6Nt.jpg",
     "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%203%20%282%29.mkv",
     "rating": {
       "code": "18+",
-      "description": "Graphic violence, horror themes"
+      "description": "Check the actual content rating before displaying it."
     },
     "warning": {
       "type": "WARNING",
       "startMs": 47000,
       "endMs": 72000,
-      "description": "Body horror and violence"
+      "description": "Content warning"
     },
     "markers": [
       {
@@ -115,15 +89,7 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [
-
-        {
-        "languageCode": "en",
-        "displayName": "english",
-        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E3-1080P_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
+    "audioTracks": [],
     "subtitleTracks": []
   },
   {
@@ -131,20 +97,20 @@
     "movieId": 8,
     "season": 1,
     "episodeNumber": 4,
-    "title": "4.THE PIRATES ARE COMING",
+    "title": "4. THE PIRATES ARE COMING",
     "duration": "1h 4m",
-    "description": "A dangerous parasite targets Shinichi and his classmates.",
+    "description": "Luffy and his friends continue their adventure and encounter dangerous enemies along the way.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/fplwnCjptL79oPveTjOWRzsdosL.jpg",
     "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%204%20%281%29.mkv",
     "rating": {
       "code": "18+",
-      "description": "Graphic violence, horror themes"
+      "description": "Check the actual content rating before displaying it."
     },
     "warning": {
       "type": "WARNING",
       "startMs": 60000,
       "endMs": 85000,
-      "description": "Graphic violence"
+      "description": "Content warning"
     },
     "markers": [
       {
@@ -154,15 +120,7 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [
-
-       {
-        "languageCode": "en",
-        "displayName": "english",
-        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E4-1080P_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
+    "audioTracks": [],
     "subtitleTracks": []
   },
   {
@@ -170,20 +128,20 @@
     "movieId": 8,
     "season": 1,
     "episodeNumber": 5,
-    "title": "5.EAT AT BARATIE!",
+    "title": "5. EAT AT BARATIE!",
     "duration": "23m",
-    "description": "The Straw Hat Pirates face their first adversary as a group. At a floating fish house, Luffy befriends a cook, and Zoro enters a duel with a warlord.",
+    "description": "The Straw Hat Pirates reach Baratie, a floating restaurant where Luffy meets Sanji and Zoro faces a powerful swordsman.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/sRSP5hj4AZ3VEeCS4ZbC6qUYuvI.jpg",
     "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%205%20%281%29.mkv",
     "rating": {
       "code": "18+",
-      "description": "Graphic violence, horror themes"
+      "description": "Check the actual content rating before displaying it."
     },
     "warning": {
       "type": "WARNING",
       "startMs": 52000,
       "endMs": 73000,
-      "description": "Violence and blood"
+      "description": "Content warning"
     },
     "markers": [
       {
@@ -193,15 +151,7 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [
-
-        {
-        "languageCode": "en",
-        "displayName": "english",
-        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E5-1080P_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
+    "audioTracks": [],
     "subtitleTracks": []
   },
   {
@@ -209,20 +159,20 @@
     "movieId": 8,
     "season": 1,
     "episodeNumber": 6,
-    "title": "6.THE CHEF AND THE CHORE BOY",
+    "title": "6. THE CHEF AND THE CHORE BOY",
     "duration": "23m",
-    "description": "Sanji and head chef Zeff put their differences aside to save a severely wounded Zoro. A ruthless Fishman on a mission stirs up trouble for the crew.",
+    "description": "Sanji and Zeff put their differences aside while the crew faces new dangers on its journey.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/tLdShOB5fv1fz1W214mmkdCNQdR.jpg",
     "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%206%20%281%29.mkv",
     "rating": {
       "code": "18+",
-      "description": "Violence and emotional trauma"
+      "description": "Check the actual content rating before displaying it."
     },
     "warning": {
       "type": "WARNING",
       "startMs": 48000,
       "endMs": 69000,
-      "description": "Emotional trauma and violence"
+      "description": "Content warning"
     },
     "markers": [
       {
@@ -232,35 +182,28 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [
-       {
-        "languageCode": "en",
-        "displayName": "english",
-        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E6-1080P_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
+    "audioTracks": [],
     "subtitleTracks": []
   },
-{
+  {
     "id": "s1e7",
-     "movieId": 8,
+    "movieId": 8,
     "season": 1,
     "episodeNumber": 7,
-    "title": "7.THE GIRL WITH THE SAWFISH TATTOO",
+    "title": "7. THE GIRL WITH THE SAWFISH TATTOO",
     "duration": "1h",
-    "description": "After striking a deal with a familiar foe to find Arlong, Luffy and his friends set sail for Coco Village and learn about Nami's mysterious past.",
+    "description": "Luffy and his friends head toward Coco Village and discover more about Nami's past.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/hL6wciEKcvF5ZjDJRmp2UeYn5v4.jpg",
     "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%207%20%281%29.mkv",
     "rating": {
       "code": "18+",
-      "description": "Violence and emotional trauma"
+      "description": "Check the actual content rating before displaying it."
     },
     "warning": {
       "type": "WARNING",
       "startMs": 48000,
       "endMs": 69000,
-      "description": "Emotional trauma and violence"
+      "description": "Content warning"
     },
     "markers": [
       {
@@ -270,35 +213,28 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [
-       {
-        "languageCode": "en",
-        "displayName": "english",
-        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E6-1080P_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
+    "audioTracks": [],
     "subtitleTracks": []
   },
-{
+  {
     "id": "s1e8",
-     "movieId": 8,
+    "movieId": 8,
     "season": 1,
     "episodeNumber": 8,
-    "title": "8.WORST IN THE EAST",
+    "title": "8. WORST IN THE EAST",
     "duration": "23m",
-    "description": "The Straw Hat crew strives to take down Arlong and the Fishmen once and for all. After a tense family reunion, Luffy inches closer to his dreams.",
+    "description": "The Straw Hat crew faces Arlong and his Fishmen as Luffy moves closer to his dream.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/hL6wciEKcvF5ZjDJRmp2UeYn5v4.jpg",
     "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%207%20%281%29.mkv",
     "rating": {
       "code": "18+",
-      "description": "Violence and emotional trauma"
+      "description": "Check the actual content rating before displaying it."
     },
     "warning": {
       "type": "WARNING",
       "startMs": 48000,
       "endMs": 69000,
-      "description": "Emotional trauma and violence"
+      "description": "Content warning"
     },
     "markers": [
       {
@@ -308,14 +244,7 @@
         "seekToMs": 0
       }
     ],
-    "audioTracks": [
-       {
-        "languageCode": "en",
-        "displayName": "english",
-        "url": "https://archive.org/download/parasyte-the-maxim-english-s-1-e-12-1080-p-converted/Parasyte%20-the%20maxim-%20%5BEnglish%5D-S1E6-1080P_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
+    "audioTracks": [],
     "subtitleTracks": []
   }
 ]
