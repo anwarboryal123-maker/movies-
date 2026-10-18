@@ -40,14 +40,14 @@
   },
   {
     "id": "s1e2",
-    "movieId": 8,
+    "movieId": 10,
     "season": 1,
     "episodeNumber": 2,
-    "title": "2. THE MAN IN THE STRAW HAT",
-    "duration": "57m",
-    "description": "Luffy continues his adventure and meets new allies as he moves closer to his dream of becoming King of the Pirates.",
+    "title": "2. Journey",
+    "duration": "26m",
+    "description": "We don't have an overview translated in English. Help us expand our database by adding one.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/fUYSyYPYCTB7bGuiqrwFQqt5xja.jpg",
-    "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%202%20%281%29.mkv",
+    "videoUrl": "https://archive.org/download/s-01-e-04-episode-4-1080-p-hd/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E02%20EPISODE%202%281080P_HD%29.mp4",
     "rating": {
       "code": "18+",
       "description": "Check the actual content rating before displaying it."
@@ -67,17 +67,12 @@
       }
     ],
     "audioTracks": [
-      {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%202_Converted.mp3",
-        "isOriginal": false
-      },
+     
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%202%20arabic_Converted.mp3",
-        "isOriginal": false
+        "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E02%20EPISODE%202%281080P_HD%29_Converted.mp3",
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
