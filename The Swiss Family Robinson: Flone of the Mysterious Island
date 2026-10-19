@@ -20,21 +20,20 @@
       "description": "Content warning"
     },
     "markers": [
-     {
-  "type": "NEXT_EPISODE",
-  "startMs": 1340000,
-  "endMs": 1400000,
-  "seekToMs": 0
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1340000,
+        "endMs": 1400000,
+        "seekToMs": 0
       },
-       {
-  "type": "SKIP_INTRO",
-  "startMs": 0,
-  "endMs": 64000,
-  "seekToMs": 64000
-     }
+      {
+        "type": "SKIP_INTRO",
+        "startMs": 0,
+        "endMs": 64000,
+        "seekToMs": 64000
+      }
     ],
     "audioTracks": [
-     
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
@@ -71,15 +70,14 @@
         "endMs": 3060000,
         "seekToMs": 0
       },
-     {
-  "type": "SKIP_INTRO",
-  "startMs": 0,
-  "endMs": 64000,
-  "seekToMs": 63000
-     }
+      {
+        "type": "SKIP_INTRO",
+        "startMs": 0,
+        "endMs": 64000,
+        "seekToMs": 63000
+      }
     ],
     "audioTracks": [
-     
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
@@ -121,10 +119,9 @@
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
-        "url": "",https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E03%20EPISODE%203%281080P_HD%29_Converted.mp3
+        "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E03%20EPISODE%203%281080P_HD%29_Converted.mp3",
         "isOriginal": true
-      },
-      
+      }
     ],
     "subtitleTracks": []
   },
@@ -157,7 +154,6 @@
       }
     ],
     "audioTracks": [
-    
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
@@ -234,7 +230,6 @@
       }
     ],
     "audioTracks": [
-     
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
@@ -273,7 +268,6 @@
       }
     ],
     "audioTracks": [
-     
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
@@ -287,7 +281,8 @@
     "id": "s1e8",
     "movieId": 8,
     "season": 1,
-    "episodeNumber": 8,Aim for the IslandWORST IN THE EAST",
+    "episodeNumber": 8,
+    "title": "8. Aim for the Island",
     "duration": "26m",
     "description": "We don't have an overview translated in English. Help us expand our database by adding one.",
     "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/o8Ms6bEcCJa6HwafqPahaq2NGGL.jpg",
@@ -311,7 +306,6 @@
       }
     ],
     "audioTracks": [
-      
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
