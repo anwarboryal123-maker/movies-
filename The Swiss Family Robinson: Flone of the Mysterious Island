@@ -171,7 +171,7 @@
     "title": "5. Captain Flone",
     "duration": "26m",
     "description": "We don't have an overview translated in English. Help us expand our database by adding one",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/sRSP5hj4AZ3VEeCS4ZbC6qUYuvI.jpg",
+    "thumbnailUrl": "https://cdn.spacetoongo.com/images/bb981-5.jpg",
     "videoUrl": "https://archive.org/download/s-01-e-04-episode-4-1080-p-hd/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E05%20EPISODE%205%281080P_HD%29.mp4",
     "rating": {
       "code": "18+",
@@ -203,13 +203,13 @@
   },
   {
     "id": "s1e6",
-    "movieId": 8,
+    "movieId": 10,
     "season": 1,
     "episodeNumber": 6,
     "title": "6. Terrifying Storm",
     "duration": "26m",
     "description": "We don't have an overview translated in English. Help us expand our database by adding one.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/tLdShOB5fv1fz1W214mmkdCNQdR.jpg",
+    "thumbnailUrl": "https://cdn.spacetoongo.com/images/61f62-6.jpg",
     "videoUrl": "https://archive.org/download/s-01-e-04-episode-4-1080-p-hd/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E06%20EPISODE%206%281080P_HD%29.mp4",
     "rating": {
       "code": "18+",
@@ -241,13 +241,13 @@
   },
   {
     "id": "s1e7",
-    "movieId": 8,
+    "movieId": 10,
     "season": 1,
     "episodeNumber": 7,
     "title": "7. The Father Who Can Do Anything",
     "duration": "26m",
     "description": "We don't have an overview translated in English. Help us expand our database by adding one.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/828JBjk9zrKbMQgdp6oHrRog0WY.jpg",
+    "thumbnailUrl": "https://cartoony.net/assets/img/thumbnails/2033_thumbnail.webp",
     "videoUrl": "https://archive.org/download/s-01-e-04-episode-4-1080-p-hd/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E07%20EPISODE%207%281080P_HD%29.mp4",
     "rating": {
       "code": "18+",
@@ -279,13 +279,13 @@
   },
   {
     "id": "s1e8",
-    "movieId": 8,
+    "movieId": 10,
     "season": 1,
     "episodeNumber": 8,
     "title": "8. Aim for the Island",
     "duration": "26m",
     "description": "We don't have an overview translated in English. Help us expand our database by adding one.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/o8Ms6bEcCJa6HwafqPahaq2NGGL.jpg",
+    "thumbnailUrl": "https://carateen.tv/assets/img/thumbnails/2034_thumbnail.webp",
     "videoUrl": "https://archive.org/download/s-01-e-04-episode-4-1080-p-hd/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E08%20EPISODE%208%281080P_HD%29.mp4",
     "rating": {
       "code": "18+",
