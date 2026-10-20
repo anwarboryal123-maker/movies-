@@ -157,7 +157,7 @@
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%204%20arabic_Converted.mp3",
+        "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E04%20EPISODE%204%281080P_HD%29_Converted.mp3",
         "isOriginal": true
       }
     ],
@@ -196,7 +196,7 @@
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%205arabic_Converted.mp3",
-        "isOriginal": false
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
@@ -233,7 +233,7 @@
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%206%20arabic_Converted.mp3",
+        "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E06%20EPISODE%206%281080P_HD%29_Converted.mp3",
         "isOriginal": true
       }
     ],
@@ -271,7 +271,7 @@
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%207%20arabic%20_Converted.mp3",
+        "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E07%20EPISODE%207%281080P_HD%29_Converted.mp3",
         "isOriginal": true
       }
     ],
@@ -309,7 +309,45 @@
       {
         "languageCode": "Ar",
         "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%208%20arabic%20_Converted.mp3",
+        "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E08%20EPISODE%208%281080P_HD%29_Converted.mp3",
+        "isOriginal": true
+      }
+    ],
+    "subtitleTracks": []
+  },
+ {
+    "id": "s1e9",
+    "movieId": 10,
+    "season": 1,
+    "episodeNumber": 9,
+    "title": "9. New Family",
+    "duration": "26m",
+    "description": "We don't have an overview translated in English. Help us expand our database by adding one.",
+    "thumbnailUrl": "https://cdn.spacetoongo.com/images/28c34-9.jpg",
+    "videoUrl": "https://archive.org/download/s-01-e-04-episode-4-1080-p-hd/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E09%20EPISODE%209%281080P_HD%29.mp4",
+    "rating": {
+      "code": "18+",
+      "description": "Check the actual content rating before displaying it."
+    },
+    "warning": {
+      "type": "WARNING",
+      "startMs": 48000,
+      "endMs": 69000,
+      "description": "Content warning"
+    },
+    "markers": [
+      {
+        "type": "NEXT_EPISODE",
+        "startMs": 1270000,
+        "endMs": 1320000,
+        "seekToMs": 0
+      }
+    ],
+    "audioTracks": [
+      {
+        "languageCode": "Ar",
+        "displayName": "Arabic",
+        "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E09%20EPISODE%209%281080P_HD%29_Converted.mp3",
         "isOriginal": true
       }
     ],
