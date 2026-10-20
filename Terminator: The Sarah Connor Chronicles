@@ -29,16 +29,10 @@
     ],
     "audioTracks": [
       {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-track-english/one%20piece%20season%201%20Epsoide%201%20%20track%20english.mkv",
-        "isOriginal": true
-      },
-      {
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%201%20arabic%20%281%29_Converted.mp3",
-        "isOriginal": false
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
@@ -73,16 +67,10 @@
     ],
     "audioTracks": [
       {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%202_Converted.mp3",
-        "isOriginal": false
-      },
-      {
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%202%20arabic_Converted.mp3",
-        "isOriginal": false
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
@@ -120,12 +108,6 @@
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%203%20arabic_Converted.mp3",
-        "isOriginal": false
-      },
-      {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%203_Converted.mp3",
         "isOriginal": true
       }
     ],
@@ -161,16 +143,10 @@
     ],
     "audioTracks": [
       {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%204_Converted.mp3",
-        "isOriginal": true
-      },
-      {
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%204%20arabic_Converted.mp3",
-        "isOriginal": false
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
@@ -205,16 +181,10 @@
     ],
     "audioTracks": [
       {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%205_Converted.mp3",
-        "isOriginal": true
-      },
-      {
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%205arabic_Converted.mp3",
-        "isOriginal": false
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
@@ -249,16 +219,10 @@
     ],
     "audioTracks": [
       {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%206_Converted.mp3",
-        "isOriginal": true
-      },
-      {
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%206%20arabic_Converted.mp3",
-        "isOriginal": false
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
@@ -293,16 +257,10 @@
     ],
     "audioTracks": [
       {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%207_Converted.mp3",
-        "isOriginal": true
-      },
-      {
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%207%20arabic%20_Converted.mp3",
-        "isOriginal": false
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
@@ -337,16 +295,10 @@
     ],
     "audioTracks": [
       {
-        "languageCode": "en",
-        "displayName": "English",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-4-converted/one%20piece%20season%201%20Epsoide%208_Converted.mp3",
-        "isOriginal": true
-      },
-      {
         "languageCode": "Ar",
         "displayName": "Arabic",
         "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%208%20arabic%20_Converted.mp3",
-        "isOriginal": false
+        "isOriginal": true
       }
     ],
     "subtitleTracks": []
