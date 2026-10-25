@@ -41,7 +41,7 @@
       "id": 1,
       "movieId": 2,
       "title": "Ramaiya Vastavaiya - Official Trailer",
-      "imageUrl": "ضع_رابط_صورة_التريلر_هنا",
+      "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/yJA2V29uGOZ2yYhSIGWO7J1HDvX.jpg",
       "videoUrl": "https://archive.org/download/ramaiya-vastvaiya/ramaiya%20vastvaiya.mp4",
       "duration": "2:30",
       "types": [
