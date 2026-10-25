@@ -1,34 +1,31 @@
 
 {
-  "movieId": 4,
-  "title": "Terminator: The Sarah Connor Chronicles",
-  "season": 1,
   "trailers": [
     {
-      "id": 401,
+      "id": 1,
       "movieId": 4,
-      "title": "Terminator: The Sarah Connor Chronicles - Trailer 1",
+      "title": "Terminator: The Sarah Connor Chronicles - Official Trailer",
       "imageUrl": "",
-      "videoUrl": "https://archive.org/download/terminator-sarah-connor-chronicles-2008-trailer/Terminator%20Sarah%20Connor%20Chronicles%20%282008%29%20trailer%20.mp4",
-      "duration": "1:00",
-      "types": ["trailer"],
-      "releaseDate": "",
-      "description": "Official trailer",
-      "isUpcoming": false,
-      "isAvailable": false
+      "videoUrl": "",
+      "duration": "2:00",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "isUpcoming": false
     },
     {
-      "id": 402,
+      "id": 2,
       "movieId": 4,
       "title": "Terminator: The Sarah Connor Chronicles - Trailer 2",
       "imageUrl": "",
       "videoUrl": "",
-      "duration": "",
-      "types": ["trailer"],
-      "releaseDate": "",
-      "description": "Second trailer",
-      "isUpcoming": false,
-      "isAvailable": false
+      "duration": "2:00",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "isUpcoming": false
     }
   ],
   "episodes": [
@@ -37,13 +34,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 1,
-      "title": "Pilot",
-      "episodeTitle": "Pilot",
-      "episodeInfo": "S1 E1",
-      "imageUrl": "",
+      "title": "1. PILOT",
+      "duration": "45m",
+      "description": "Sarah Connor and her son John try to escape a Terminator sent to kill him. They meet Cameron, a mysterious girl who helps them escape and prepares them for a new fight against the machines.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
@@ -53,13 +58,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 2,
-      "title": "Gnothi Seauton",
-      "episodeTitle": "Gnothi Seauton",
-      "episodeInfo": "S1 E2",
-      "imageUrl": "",
+      "title": "2. GNOTHI SEAUTON",
+      "duration": "44m",
+      "description": "Sarah, John, and Cameron try to establish new identities. Sarah contacts an old friend, while John and Cameron discover that danger is closer than they expected.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
@@ -69,13 +82,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 3,
-      "title": "The Turk",
-      "episodeTitle": "The Turk",
-      "episodeInfo": "S1 E3",
-      "imageUrl": "",
+      "title": "3. THE TURK",
+      "duration": "44m",
+      "description": "Sarah searches for the people connected to Skynet's creation and discovers Andy Goode, who is developing an advanced chess-playing computer known as the Turk.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
@@ -85,13 +106,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 4,
-      "title": "Heavy Metal",
-      "episodeTitle": "Heavy Metal",
-      "episodeInfo": "S1 E4",
-      "imageUrl": "",
+      "title": "4. HEAVY METAL",
+      "duration": "44m",
+      "description": "Sarah, John, and Cameron investigate stolen cargo. John becomes separated from them and discovers another dangerous machine, while Agent Ellison investigates a surprising murder suspect.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
@@ -101,13 +130,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 5,
-      "title": "Queen's Gambit",
-      "episodeTitle": "Queen's Gambit",
-      "episodeInfo": "S1 E5",
-      "imageUrl": "",
+      "title": "5. QUEEN'S GAMBIT",
+      "duration": "41m",
+      "description": "Sarah questions the capabilities of Andy's computer after he enters a chess competition. She meets a stranger with a history similar to hers, while Agent Ellison discovers evidence of a Terminator encounter.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
@@ -117,13 +154,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 6,
-      "title": "Dungeons & Dragons",
-      "episodeTitle": "Dungeons & Dragons",
-      "episodeInfo": "S1 E6",
-      "imageUrl": "",
+      "title": "6. DUNGEONS & DRAGONS",
+      "duration": "44m",
+      "description": "Derek Reese struggles to survive his injuries and remembers fighting machines in the future. Sarah must explain her past to Charley while the group tries to stay safe.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
@@ -133,13 +178,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 7,
-      "title": "The Demon Hand",
-      "episodeTitle": "The Demon Hand",
-      "episodeInfo": "S1 E7",
-      "imageUrl": "",
+      "title": "7. THE DEMON HAND",
+      "duration": "42m",
+      "description": "Sarah searches for a missing Terminator hand and discovers that Agent Ellison has information about her past. Cameron searches for the Turk while John learns more about his mother's history.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
@@ -149,13 +202,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 8,
-      "title": "Vick's Chip",
-      "episodeTitle": "Vick's Chip",
-      "episodeInfo": "S1 E8",
-      "imageUrl": "",
+      "title": "8. VICK'S CHIP",
+      "duration": "43m",
+      "description": "Derek finds the brain chip from the Terminator Vick. John builds an interface to examine its data, revealing that a computerized traffic system may be important to Skynet.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
@@ -165,13 +226,21 @@
       "movieId": 4,
       "season": 1,
       "episodeNumber": 9,
-      "title": "What He Beheld",
-      "episodeTitle": "What He Beheld",
-      "episodeInfo": "S1 E9",
-      "imageUrl": "",
+      "title": "9. WHAT HE BEHELD",
+      "duration": "43m",
+      "description": "Sarah and Derek try to make a deal involving the Turk. John and Cameron face a dangerous situation, while Agent Ellison discovers a threat within his own agency.",
+      "thumbnailUrl": "",
       "videoUrl": "",
-      "rating": "",
-      "warning": "",
+      "rating": {
+        "code": "TV-14",
+        "description": "Check the actual content rating before displaying it."
+      },
+      "warning": {
+        "type": "WARNING",
+        "startMs": 0,
+        "endMs": 0,
+        "description": ""
+      },
       "markers": [],
       "audioTracks": [],
       "subtitleTracks": []
