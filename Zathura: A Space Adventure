@@ -3,8 +3,8 @@
     {
       "id": 1,
       "movieId": 12,
-      "title": "Zathura: A Space Adventure - Official Trailer",
-      "imageUrl": "",
+      "title": "Zathura: A Space Adventure ",
+      "imageUrl": "https://images8.alphacoders.com/794/thumb-1920-794663.jpg",
       "videoUrl": https://archive.org/download/zathura-a-space-adventure-2005_202610/Zathura_%20A%20Space%20Adventure.mp4
       "duration": "",
       "types": ["trailer", "shortcut"],
