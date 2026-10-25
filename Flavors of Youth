@@ -35,5 +35,30 @@
       "url": "",
       "mimeType": "text/vtt"
     }
+  ],
+  "trailers": [
+    {
+      "id": 301,
+      "movieId": 3,
+      "title": "Flavors of Youth - Trailer 1",
+      "videoUrl": "ضع_رابط_التريلر_الأول_هنا",
+      "imageUrl": "ضع_رابط_الصورة_الأولى_هنا",
+      "duration": "",
+      "types": [
+        "trailer",
+        "shortcut"
+      ]
+    },
+    {
+      "id": 302,
+      "movieId": 3,
+      "title": "Flavors of Youth - Trailer 2",
+      "videoUrl": "ضع_رابط_التريلر_الثاني_هنا",
+      "imageUrl": "ضع_رابط_الصورة_الثانية_هنا",
+      "duration": "",
+      "types": [
+        "shortcut"
+      ]
+    }
   ]
 }
