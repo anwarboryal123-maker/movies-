@@ -1,4 +1,20 @@
+
 {
+  "trailers": [
+    {
+      "id": 1,
+      "movieId": 7,
+      "title": "The Book Thief - Official Trailer",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "isUpcoming": false
+    }
+  ],
   "id": 7,
   "title": "The Book Thief",
   "movieId": 7,
@@ -10,12 +26,11 @@
   },
   "audioTracks": [
     {
-      "languageCode": "En",
-      "displayName": "english ",
+      "languageCode": "en",
+      "displayName": "English",
       "url": "https://archive.org/download/the-book-thief-2013-english/The%20Book%20Thief%202013%20english%20.mkv",
       "isOriginal": true
     }
-   
   ],
   "subtitleTracks": [
     {
