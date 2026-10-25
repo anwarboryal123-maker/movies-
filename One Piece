@@ -4,7 +4,7 @@
       "id": 1,
       "movieId": 8,
       "title": "One Piece - Official Trailer",
-      "imageUrl": "ضع_رابط_صورة_التريلر_هنا",
+      "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
       "videoUrl": "https://archive.org/download/one-piece-zoro-vs.-mihawk-fight-netflix-1080-p-hd/ONE%20PIECE_%20Zoro%20vs.%20Mihawk%20Fight%20_%20Netflix%281080P_HD%29.mp4",
       "duration": "2:15",
       "types": [
