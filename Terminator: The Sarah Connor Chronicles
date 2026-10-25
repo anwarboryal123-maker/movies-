@@ -1,306 +1,180 @@
-[
-  {
-    "id": "s1e1",
-    "movieId": 4,
-    "season": 1,
-    "episodeNumber": 1,
-    "title": "1. ROMANCE DAWN",
-    "duration": "1h 6m",
-    "description": "Monkey D. Luffy begins his journey to become the King of the Pirates and sets out to find the legendary One Piece.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/qyCDTwiZ0w278d3w4Id1f2Lqihl.jpg",
-    "videoUrl": "https://archive.org/download/terminator-the-sarah-connor-chronicles-Complete-2008-2009/Terminator.The.Sarah.Connor.Chronicles.S01E01.720p.BluRay.HQ.x265.10bit-GalaxyTV.mkv",
-    "rating": {
-      "code": "18+",
-      "description": "Check the actual content rating before displaying it."
+
+{
+  "movieId": 4,
+  "title": "Terminator: The Sarah Connor Chronicles",
+  "season": 1,
+  "trailers": [
+    {
+      "id": 401,
+      "movieId": 4,
+      "title": "Terminator: The Sarah Connor Chronicles - Trailer 1",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": ["trailer"],
+      "releaseDate": "",
+      "description": "Official trailer",
+      "isUpcoming": false,
+      "isAvailable": false
     },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 42000,
-      "endMs": 68000,
-      "description": "Content warning"
+    {
+      "id": 402,
+      "movieId": 4,
+      "title": "Terminator: The Sarah Connor Chronicles - Trailer 2",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": ["trailer"],
+      "releaseDate": "",
+      "description": "Second trailer",
+      "isUpcoming": false,
+      "isAvailable": false
+    }
+  ],
+  "episodes": [
+    {
+      "id": "s1e1",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 1,
+      "title": "Pilot",
+      "episodeTitle": "Pilot",
+      "episodeInfo": "S1 E1",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
     },
-    "markers": [
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 3495000,
-        "endMs": 3554000,
-        "seekToMs": 0
-      }
-    ],
-    "audioTracks": [
-      {
-        "languageCode": "Ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%201%20arabic%20%281%29_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": []
-  },
-  {
-    "id": "s1e2",
-    "movieId": 4,
-    "season": 1,
-    "episodeNumber": 2,
-    "title": "2. THE MAN IN THE STRAW HAT",
-    "duration": "57m",
-    "description": "Luffy continues his adventure and meets new allies as he moves closer to his dream of becoming King of the Pirates.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/fUYSyYPYCTB7bGuiqrwFQqt5xja.jpg",
-    "videoUrl": "https://archive.org/download/terminator-the-sarah-connor-chronicles-Complete-2008-2009/Terminator.The.Sarah.Connor.Chronicles.S01E02.720p.BluRay.HQ.x265.10bit-GalaxyTV.mp4",
-    "rating": {
-      "code": "18+",
-      "description": "Check the actual content rating before displaying it."
+    {
+      "id": "s1e2",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 2,
+      "title": "Gnothi Seauton",
+      "episodeTitle": "Gnothi Seauton",
+      "episodeInfo": "S1 E2",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
     },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 51000,
-      "endMs": 76000,
-      "description": "Content warning"
+    {
+      "id": "s1e3",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 3,
+      "title": "The Turk",
+      "episodeTitle": "The Turk",
+      "episodeInfo": "S1 E3",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
     },
-    "markers": [
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 3005000,
-        "endMs": 3060000,
-        "seekToMs": 0
-      }
-    ],
-    "audioTracks": [
-      {
-        "languageCode": "Ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%202%20arabic_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": []
-  },
-  {
-    "id": "s1e3",
-    "movieId": 8,
-    "season": 1,
-    "episodeNumber": 3,
-    "title": "3. TELL NO TALES",
-    "duration": "59m",
-    "description": "Luffy and his companions face new challenges as their journey across the seas continues.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/utv8GwRqlwb2M2ugQUzMzBL6Nt.jpg",
-    "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%203%20%282%29.mkv",
-    "rating": {
-      "code": "18+",
-      "description": "Check the actual content rating before displaying it."
+    {
+      "id": "s1e4",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 4,
+      "title": "Heavy Metal",
+      "episodeTitle": "Heavy Metal",
+      "episodeInfo": "S1 E4",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
     },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 47000,
-      "endMs": 72000,
-      "description": "Content warning"
+    {
+      "id": "s1e5",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 5,
+      "title": "Queen's Gambit",
+      "episodeTitle": "Queen's Gambit",
+      "episodeInfo": "S1 E5",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
     },
-    "markers": [
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 3160000,
-        "endMs": 3240000,
-        "seekToMs": 0
-      }
-    ],
-    "audioTracks": [
-      {
-        "languageCode": "Ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%203%20arabic_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": []
-  },
-  {
-    "id": "s1e4",
-    "movieId": 8,
-    "season": 1,
-    "episodeNumber": 4,
-    "title": "4. THE PIRATES ARE COMING",
-    "duration": "1h 4m",
-    "description": "Luffy and his friends continue their adventure and encounter dangerous enemies along the way.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/fplwnCjptL79oPveTjOWRzsdosL.jpg",
-    "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%204%20%281%29.mkv",
-    "rating": {
-      "code": "18+",
-      "description": "Check the actual content rating before displaying it."
+    {
+      "id": "s1e6",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 6,
+      "title": "Dungeons & Dragons",
+      "episodeTitle": "Dungeons & Dragons",
+      "episodeInfo": "S1 E6",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
     },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 60000,
-      "endMs": 85000,
-      "description": "Content warning"
+    {
+      "id": "s1e7",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 7,
+      "title": "The Demon Hand",
+      "episodeTitle": "The Demon Hand",
+      "episodeInfo": "S1 E7",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
     },
-    "markers": [
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 3460000,
-        "endMs": 3540000,
-        "seekToMs": 0
-      }
-    ],
-    "audioTracks": [
-      {
-        "languageCode": "Ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%204%20arabic_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": []
-  },
-  {
-    "id": "s1e5",
-    "movieId": 8,
-    "season": 1,
-    "episodeNumber": 5,
-    "title": "5. EAT AT BARATIE!",
-    "duration": "23m",
-    "description": "The Straw Hat Pirates reach Baratie, a floating restaurant where Luffy meets Sanji and Zoro faces a powerful swordsman.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/sRSP5hj4AZ3VEeCS4ZbC6qUYuvI.jpg",
-    "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%205%20%281%29.mkv",
-    "rating": {
-      "code": "18+",
-      "description": "Check the actual content rating before displaying it."
+    {
+      "id": "s1e8",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 8,
+      "title": "Vick's Chip",
+      "episodeTitle": "Vick's Chip",
+      "episodeInfo": "S1 E8",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
     },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 52000,
-      "endMs": 73000,
-      "description": "Content warning"
-    },
-    "markers": [
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 2746000,
-        "endMs": 2810000,
-        "seekToMs": 0
-      }
-    ],
-    "audioTracks": [
-      {
-        "languageCode": "Ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%205arabic_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": []
-  },
-  {
-    "id": "s1e6",
-    "movieId": 8,
-    "season": 1,
-    "episodeNumber": 6,
-    "title": "6. THE CHEF AND THE CHORE BOY",
-    "duration": "23m",
-    "description": "Sanji and Zeff put their differences aside while the crew faces new dangers on its journey.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/tLdShOB5fv1fz1W214mmkdCNQdR.jpg",
-    "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%206%20%281%29.mkv",
-    "rating": {
-      "code": "18+",
-      "description": "Check the actual content rating before displaying it."
-    },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 48000,
-      "endMs": 69000,
-      "description": "Content warning"
-    },
-    "markers": [
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 1270000,
-        "endMs": 1320000,
-        "seekToMs": 0
-      }
-    ],
-    "audioTracks": [
-      {
-        "languageCode": "Ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%206%20arabic_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": []
-  },
-  {
-    "id": "s1e7",
-    "movieId": 8,
-    "season": 1,
-    "episodeNumber": 7,
-    "title": "7. THE GIRL WITH THE SAWFISH TATTOO",
-    "duration": "1h",
-    "description": "Luffy and his friends head toward Coco Village and discover more about Nami's past.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/828JBjk9zrKbMQgdp6oHrRog0WY.jpg",
-    "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%207%20%281%29.mkv",
-    "rating": {
-      "code": "18+",
-      "description": "Check the actual content rating before displaying it."
-    },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 48000,
-      "endMs": 69000,
-      "description": "Content warning"
-    },
-    "markers": [
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 1270000,
-        "endMs": 1320000,
-        "seekToMs": 0
-      }
-    ],
-    "audioTracks": [
-      {
-        "languageCode": "Ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%207%20arabic%20_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": []
-  },
-  {
-    "id": "s1e8",
-    "movieId": 8,
-    "season": 1,
-    "episodeNumber": 8,
-    "title": "8. WORST IN THE EAST",
-    "duration": "23m",
-    "description": "The Straw Hat crew faces Arlong and his Fishmen as Luffy moves closer to his dream.",
-    "thumbnailUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/o8Ms6bEcCJa6HwafqPahaq2NGGL.jpg",
-    "videoUrl": "https://archive.org/download/one-piece-season-1-epsoide-6-1/one%20piece%20season%201%20Epsoide%207%20%281%29.mkv",
-    "rating": {
-      "code": "18+",
-      "description": "Check the actual content rating before displaying it."
-    },
-    "warning": {
-      "type": "WARNING",
-      "startMs": 48000,
-      "endMs": 69000,
-      "description": "Content warning"
-    },
-    "markers": [
-      {
-        "type": "NEXT_EPISODE",
-        "startMs": 1270000,
-        "endMs": 1320000,
-        "seekToMs": 0
-      }
-    ],
-    "audioTracks": [
-      {
-        "languageCode": "Ar",
-        "displayName": "Arabic",
-        "url": "https://archive.org/download/one-piece-season-1-epsoide-1-arabic-1-converted/one%20piece%20season%201%20Epsoide%208%20arabic%20_Converted.mp3",
-        "isOriginal": true
-      }
-    ],
-    "subtitleTracks": []
-  }
-]
+    {
+      "id": "s1e9",
+      "movieId": 4,
+      "season": 1,
+      "episodeNumber": 9,
+      "title": "What He Beheld",
+      "episodeTitle": "What He Beheld",
+      "episodeInfo": "S1 E9",
+      "imageUrl": "",
+      "videoUrl": "",
+      "rating": "",
+      "warning": "",
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    }
+  ]
+}
