@@ -11,11 +11,10 @@
   "audioTracks": [
     {
       "languageCode": "ar",
-      "displayName": "  العربية المغربية ",
+      "displayName": "العربية المغربية",
       "url": "https://archive.org/download/converted-arabic/%D9%83%D8%A7%D9%85%D8%A8%D9%88%D8%AF%D9%8A%D8%A7_Converted%20%20arabic.mp3",
       "isOriginal": true
     }
-   
   ],
   "subtitleTracks": [
     {
@@ -29,6 +28,18 @@
       "displayName": "الإنجليزية",
       "url": "",
       "mimeType": "text/vtt"
+    }
+  ],
+  "trailers": [
+    {
+      "id": 1,
+      "movieId": 5,
+      "title": "Combodia",
+      "imageUrl": "ضع_رابط_صورة_التريلر_هنا",
+      "videoUrl": "ضع_رابط_فيديو_التريلر_هنا",
+      "duration": "2:15",
+      "types": ["trailer", "shortcut"],
+      "isUpcoming": false
     }
   ]
 }
