@@ -1,4 +1,19 @@
 {
+  "trailers": [
+    {
+      "id": 1,
+      "movieId": 12,
+      "title": "Zathura: A Space Adventure - Official Trailer",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": ["trailer", "shortcut"],
+      "releaseDate": "",
+      "description": "Two brothers discover a mysterious board game that sends their house into outer space.",
+      "isUpcoming": false,
+      "isAvailable": true
+    }
+  ],
   "id": 12,
   "title": "Zathura: A Space Adventure",
   "movieId": 12,
@@ -10,12 +25,11 @@
   },
   "audioTracks": [
     {
-      "languageCode": "En",
-      "displayName": "english ",
+      "languageCode": "en",
+      "displayName": "English",
       "url": "https://archive.org/download/zathura-a-space-adventure-2005-converted/Zathura%20A%20Space%20Adventure%202005%20_Converted.mp3",
       "isOriginal": true
     }
-   
   ],
   "subtitleTracks": [
     {
