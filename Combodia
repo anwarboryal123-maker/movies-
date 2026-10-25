@@ -36,7 +36,7 @@
       "movieId": 5,
       "title": "Combodia",
       "imageUrl": "ضع_رابط_صورة_التريلر_هنا",
-      "videoUrl": "ضع_رابط_فيديو_التريلر_هنا",
+      "videoUrl": "https://archive.org/download/combodia-2019-trailer/Combodia%20%282019%29-Trailer%20.mp4",
       "duration": "2:15",
       "types": ["trailer", "shortcut"],
       "isUpcoming": false
