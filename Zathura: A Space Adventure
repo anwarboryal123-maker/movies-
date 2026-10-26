@@ -3,15 +3,28 @@
     {
       "id": 1,
       "movieId": 12,
-      "title": "Zathura: A Space Adventure ",
+      "title": "Zathura: A Space Adventure",
       "imageUrl": "https://images8.alphacoders.com/794/thumb-1920-794663.jpg",
-      "videoUrl": https://archive.org/download/zathura-a-space-adventure-2005_202610/Zathura_%20A%20Space%20Adventure.mp4
+      "videoUrl": "https://archive.org/download/zathura-a-space-adventure-2005_202610/Zathura_%20A%20Space%20Adventure.mp4",
       "duration": "",
       "types": ["trailer", "shortcut"],
       "releaseDate": "",
       "description": "Two brothers discover a mysterious board game that sends their house into outer space.",
       "isUpcoming": false,
       "isAvailable": true
+    },
+    {
+      "id": 2,
+      "movieId": 12,
+      "title": "Zathura: A Space Adventure - Trailer 2",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": ["trailer", "shortcut"],
+      "releaseDate": "",
+      "description": "Second trailer for Zathura: A Space Adventure.",
+      "isUpcoming": false,
+      "isAvailable": false
     }
   ],
   "id": 12,
