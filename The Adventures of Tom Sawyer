@@ -1,1 +1,681 @@
-
+{
+  "trailers": [
+    {
+      "id": 12,
+      "movieId": 10,
+      "title": "The Adventures of Tom Sawyer - Trailer 1",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "releaseDate": "",
+      "description": "",
+      "isUpcoming": false,
+      "isAvailable": false
+    },
+    {
+      "id": 13,
+      "movieId": 10,
+      "title": "The Adventures of Tom Sawyer - Trailer 2",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "releaseDate": "",
+      "description": "",
+      "isUpcoming": false,
+      "isAvailable": false
+    },
+    {
+      "id": 14,
+      "movieId": 10,
+      "title": "The Adventures of Tom Sawyer - Trailer 3",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "releaseDate": "",
+      "description": "",
+      "isUpcoming": false,
+      "isAvailable": false
+    }
+  ],
+  "episodes": [
+    {
+      "id": "s1e1",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 1,
+      "title": "The Adventures of Tom Sawyer - Episode 1",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e2",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 2,
+      "title": "The Adventures of Tom Sawyer - Episode 2",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e3",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 3,
+      "title": "The Adventures of Tom Sawyer - Episode 3",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e4",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 4,
+      "title": "The Adventures of Tom Sawyer - Episode 4",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e5",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 5,
+      "title": "The Adventures of Tom Sawyer - Episode 5",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e6",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 6,
+      "title": "The Adventures of Tom Sawyer - Episode 6",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e7",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 7,
+      "title": "The Adventures of Tom Sawyer - Episode 7",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e8",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 8,
+      "title": "The Adventures of Tom Sawyer - Episode 8",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e9",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 9,
+      "title": "The Adventures of Tom Sawyer - Episode 9",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e10",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 10,
+      "title": "The Adventures of Tom Sawyer - Episode 10",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e11",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 11,
+      "title": "The Adventures of Tom Sawyer - Episode 11",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e12",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 12,
+      "title": "The Adventures of Tom Sawyer - Episode 12",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e13",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 13,
+      "title": "The Adventures of Tom Sawyer - Episode 13",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e14",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 14,
+      "title": "The Adventures of Tom Sawyer - Episode 14",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e15",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 15,
+      "title": "The Adventures of Tom Sawyer - Episode 15",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e16",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 16,
+      "title": "The Adventures of Tom Sawyer - Episode 16",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e17",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 17,
+      "title": "The Adventures of Tom Sawyer - Episode 17",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e18",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 18,
+      "title": "The Adventures of Tom Sawyer - Episode 18",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e19",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 19,
+      "title": "The Adventures of Tom Sawyer - Episode 19",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e20",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 20,
+      "title": "The Adventures of Tom Sawyer - Episode 20",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e21",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 21,
+      "title": "The Adventures of Tom Sawyer - Episode 21",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e22",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 22,
+      "title": "The Adventures of Tom Sawyer - Episode 22",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e23",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 23,
+      "title": "The Adventures of Tom Sawyer - Episode 23",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e24",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 24,
+      "title": "The Adventures of Tom Sawyer - Episode 24",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e25",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 25,
+      "title": "The Adventures of Tom Sawyer - Episode 25",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e26",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 26,
+      "title": "The Adventures of Tom Sawyer - Episode 26",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e27",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 27,
+      "title": "The Adventures of Tom Sawyer - Episode 27",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e28",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 28,
+      "title": "The Adventures of Tom Sawyer - Episode 28",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e29",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 29,
+      "title": "The Adventures of Tom Sawyer - Episode 29",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e30",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 30,
+      "title": "The Adventures of Tom Sawyer - Episode 30",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e31",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 31,
+      "title": "The Adventures of Tom Sawyer - Episode 31",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e32",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 32,
+      "title": "The Adventures of Tom Sawyer - Episode 32",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e33",
+      "season": 1,
+      "movieId": 10,
+      "episodeNumber": 33,
+      "title": "The Adventures of Tom Sawyer - Episode 33",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    }
+  ]
+}
