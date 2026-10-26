@@ -1,1 +1,152 @@
-
+{
+  "trailers": [
+    {
+      "id": 10,
+      "movieId": 9,
+      "title": "Connect - Trailer 1",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "releaseDate": "",
+      "description": "Official trailer for Connect.",
+      "isUpcoming": false,
+      "isAvailable": false
+    },
+    {
+      "id": 11,
+      "movieId": 9,
+      "title": "Connect - Trailer 2",
+      "imageUrl": "",
+      "videoUrl": "",
+      "duration": "",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "releaseDate": "",
+      "description": "Second trailer for Connect.",
+      "isUpcoming": false,
+      "isAvailable": false
+    }
+  ],
+  "episodes": [
+    {
+      "id": "s1e1",
+      "season": 1,
+      "movieId": 9,
+      "episodeNumber": 1,
+      "title": "Connect - Episode 1",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e2",
+      "season": 1,
+      "movieId": 9,
+      "episodeNumber": 2,
+      "title": "Connect - Episode 2",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e3",
+      "season": 1,
+      "movieId": 9,
+      "episodeNumber": 3,
+      "title": "Connect - Episode 3",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e4",
+      "season": 1,
+      "movieId": 9,
+      "episodeNumber": 4,
+      "title": "Connect - Episode 4",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e5",
+      "season": 1,
+      "movieId": 9,
+      "episodeNumber": 5,
+      "title": "Connect - Episode 5",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    },
+    {
+      "id": "s1e6",
+      "season": 1,
+      "movieId": 9,
+      "episodeNumber": 6,
+      "title": "Connect - Episode 6",
+      "duration": "",
+      "description": "",
+      "thumbnailUrl": "",
+      "videoUrl": "",
+      "rating": {
+        "code": "",
+        "description": ""
+      },
+      "warning": null,
+      "markers": [],
+      "audioTracks": [],
+      "subtitleTracks": []
+    }
+  ]
+}
