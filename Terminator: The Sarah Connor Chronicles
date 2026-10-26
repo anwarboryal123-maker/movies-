@@ -5,8 +5,8 @@
       "id": 1,
       "movieId": 4,
       "title": "Terminator: The Sarah Connor Chronicles - Official Trailer",
-      "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/dyJVcCJnONxLlFpTVwUE2gA12FX.jpg",
-      "videoUrl": "https://archive.org/download/terminator-sarah-connor-chronicles-2008-trailer/Terminator%20Sarah%20Connor%20Chronicles%20%282008%29%20trailer%20.mp4",
+      "imageUrl": "",
+      "videoUrl": "",
       "duration": "2:00",
       "types": [
         "trailer",
