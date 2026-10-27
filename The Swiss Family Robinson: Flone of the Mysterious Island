@@ -450,7 +450,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+        {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E12%20EPISODE%2012%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
@@ -468,7 +475,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+       {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E13%20EPISODE%2013%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
@@ -486,7 +500,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+        {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E14%20EPISODE%2014%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
@@ -522,7 +543,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+         {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E16%20EPISODE%2016%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
@@ -540,7 +568,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+        {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E17%20EPISODE%2017%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
@@ -558,7 +593,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+      {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E18%20EPISODE%2018%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
@@ -576,7 +618,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+       {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E19%20EPISODE%2019%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
@@ -594,7 +643,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+        {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E20%20EPISODE%2020%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
