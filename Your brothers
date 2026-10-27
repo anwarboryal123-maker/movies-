@@ -1,1 +1,16 @@
 
+{
+  "trailers": [
+    {
+      "id": 1,
+      "movieId": 13,
+      "title": "your brothers",
+      "imageUrl": "https://bladna24.ma/wp-content/uploads/2024/10/khou-khwatatou.jpg",
+      "videoUrl": "https://archive.org/download/20261027_20261027_1110/%D8%B9%D8%B1%D8%B6%20%D8%AA%D8%B4%D9%88%D9%82%D9%8A.mp4",
+      "duration": "",
+      "types": [
+        "trailer",
+        "shortcut"
+      ],
+      "isUpcoming": false
+    }
