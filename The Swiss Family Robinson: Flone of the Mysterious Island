@@ -425,7 +425,14 @@
         "description": "Check the actual content rating before displaying it."
       },
       "markers": [],
-      "audioTracks": [],
+      "audioTracks": [
+         {
+          "languageCode": "Ar",
+          "displayName": "Arabic",
+          "url": "https://archive.org/download/s-01-e-23-episode-23-1080-p-hd-converted/%D9%81%D9%84%D9%88%D9%86%D8%A9%20%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86%20%D9%83%D8%B1%D9%88%D8%B2%D9%88%20S01E11%20EPISODE%2011%281080P_HD%29_Converted.mp3",
+          "isOriginal": true
+        }
+      ],
       "subtitleTracks": []
     },
     {
