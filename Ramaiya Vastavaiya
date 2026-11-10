@@ -42,6 +42,7 @@
       "movieId": 2,
       "title": "Ramaiya Vastavaiya - Official Trailer",
       "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/yJA2V29uGOZ2yYhSIGWO7J1HDvX.jpg",
+"titleImageUrl": "https://archive.org/download/ramaiya-vastaviaya-golden-crest-logo/Ramaiya%20Vastaviaya%20Golden%20Crest%20Logo.png",
       "videoUrl": "https://archive.org/download/ramaiya-vastvaiya/ramaiya%20vastvaiya.mp4",
       "duration": "2:30",
       "types": [
