@@ -1,1 +1,17 @@
 
+{
+  "trailers": [
+    {
+      "id": 1,
+      "movieId": 14,
+      "title": "baba 3li",
+      "imageUrl": "https://agadir24.info/wp-content/uploads/2023/04/%D8%A8%D8%A7%D8%A8%D8%A7-%D8%B9%D9%84%D9%8A1.jpg.webp",
+      "videoUrl": "https://archive.org/download/1-baba-ali-4-episode-01-1080-p-hd/%D8%A8%D8%A7%D8%A8%D8%A7%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20-%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%20_%20BABA%20ALI%204%20-%20EPISODE%2001%20_%20%E2%B4%B1%E2%B4%B0%E2%B4%B1%E2%B4%B0%20%E2%B5%84%E2%B5%8D%E2%B5%89%281080P_HD%29.mp4",
+      "duration": "",
+      "types": [
+        "shortcut"
+      ],
+      "isUpcoming": false
+    }
+  ]
+}
